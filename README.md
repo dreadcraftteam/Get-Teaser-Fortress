@@ -8,5 +8,11 @@ This is a mod restoring the gameplay of the Team-Fortress 2 build from this [tra
 3. That's all! Have a nice game!
 
 ### Current Tasks
-More beta experience
-Grenades
+1. More beta experience
+2. Grenades
+3. NailGun
+4. SMG for scout and medic
+5. Medic Syringe
+6. Tranquilizer Gun
+7. Lead Pipe
+8. Branding Iron
