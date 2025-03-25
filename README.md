@@ -19,11 +19,12 @@ This is a mod restoring the gameplay of the Team-Fortress 2 build from this [tra
 8. Beta CTF hud
 9. Armor
 10. 2 levels for teleport
-11. Beta 2Fort
-12. Beta Badlands (CTF)
-13. Linux Build
-14. Raspbian OS Build
-15. Create a Site
+11. 2 levels for dispencer
+12. Beta 2Fort
+13. Beta Badlands (CTF)
+14. Linux Build
+15. Raspbian OS Build
+16. Create a Site
 
 And more beta experience!
 
