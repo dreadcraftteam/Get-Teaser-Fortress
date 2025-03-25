@@ -5,7 +5,8 @@ This is a mod restoring the gameplay of the Team-Fortress 2 build from this [tra
 ### Installation
 1. Download .zip archive from the "releases" tab
 2. Unzip the "teaserfortress" folder to "Steam/SteamApps/SourceMods/"
-3. That's all! Have a nice game!
+3. Restart Steam
+4. That's all! Have a nice game!
 
 ### Current Tasks
 1. Remove Economy System
