@@ -8,11 +8,24 @@ This is a mod restoring the gameplay of the Team-Fortress 2 build from this [tra
 3. That's all! Have a nice game!
 
 ### Current Tasks
-1. More beta experience
+1. Remove Economy System
 2. Grenades
-3. NailGun
-4. SMG for scout and medic
+3. Branding Iron
+4. Lead Pipe
 5. Medic Syringe
-6. Tranquilizer Gun
-7. Lead Pipe
-8. Branding Iron
+6. Tranquiliser
+7. Nail Gun
+8. Beta CTF hud
+9. Armor
+10. 2 levels for teleport
+11. Beta 2Fort
+12. Beta Badlands (CTF)
+13. Linux Build
+14. Raspbian OS Build
+15. Create a Site
+
+And more beta experience!
+
+### Support Me
+```2202 2081 8656 5512``` - SberBank
+```2200 1601 5060 7741``` - Chelyabinvest Bank
